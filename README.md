@@ -3,7 +3,7 @@
 =======
 # QuickCart - A simple eCommerce website
 
-QuickCart is an open-source **Next.js eCommerce frontend** project.  
+QuickCart is a **Next.js eCommerce frontend** project.  
 It provides a modern, fast and customizable shopping UI.  
 This repo is **frontend only** – contributors can improve the design, add new pages, animations and more.
 
@@ -57,17 +57,4 @@ We welcome all kinds of contributions! You can:
 - Add filtering/search features
 - Improve documentation
 
-Check out [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 🌟 Contributors
-
-Thanks to everyone who contributes to **QuickCart**!
->>>>>>> 3fb15df (First commit)
