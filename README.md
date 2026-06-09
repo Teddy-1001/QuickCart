@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # QuickCart
-=======
+
 # QuickCart - A simple eCommerce website
 
 QuickCart is a **Next.js eCommerce frontend** project.  
